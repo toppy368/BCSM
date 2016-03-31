@@ -7,14 +7,14 @@
 
 ##檔案及實際DEMO說明  
 branch:gh-pages tree：  
-https://github.com/toppy368/Blog-Customized-Syntax/tree/gh-pages
+https://github.com/toppy368/BCSM/tree/gh-pages
 
 Demo Hello World：  
-https://toppy368.github.io/Blog-Customized-Syntax/Laboratory.html  
+https://toppy368.github.io/BCSM/Laboratory.html  
 **注意：**此檔案目前為"未成品"，先做出實驗用的網頁檔，並配合GitHub版本控制紀錄實驗過程的語法及程式碼，上面的原始碼可能會因為新需求而被洗掉(覆蓋)甚至刪除掉，不會永久保存，請注意 !  
 
 沙盒測試頁面：  
-https://toppy368.github.io/Blog-Customized-Syntax/Sandbox.html  
+https://toppy368.github.io/BCSM/Sandbox.html  
 **注意：**  
 1. 此檔案為"沙盒"也就是**測試頁面**，上面的原始碼可能會因為新需求而被洗掉(覆蓋)甚至刪除掉，不會永久保存，請注意 !   
 2. 雖然本檔案的語法可能隨時會被蓋掉，不過採用了GitHub版本控制紀錄檔案變更過程，可透過Commit的機制查詢實驗過程的語法及程式碼  
