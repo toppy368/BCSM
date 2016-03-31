@@ -10,7 +10,7 @@
 https://github.com/toppy368/BCSM/tree/gh-pages
 
 **Demo Hello World：**  
-https://toppy368.github.io/BCSM/  
+https://toppy368.github.io/BCSM/Laboratory.html  
 **注意：**此檔案目前為"未成品"，先做出實驗用的網頁檔，並配合GitHub版本控制紀錄實驗過程的語法及程式碼，上面的原始碼可能會因為新需求而被洗掉(覆蓋)甚至刪除掉，不會永久保存，請注意 !  
 
 **沙盒測試頁面：**  
