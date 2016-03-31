@@ -1,4 +1,4 @@
-# Blog-Customized-Syntax
+# Blog-Customized-Syntax-Museum (BCSM)
 語法實驗倉庫 !  
 實驗後的結果將成為 [我的部落格] (http://www.toppy368.tw) 的食糧，可能成為佈景客製化語法其中幾項語法，而所有的變更均採用開放授權的方式變更，可以自由運用這些語法 !  
 
