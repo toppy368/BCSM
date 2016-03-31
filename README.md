@@ -23,3 +23,8 @@ https://toppy368.github.io/BCSM/Sandbox.html
 README.MD：您目前觀看的這份檔案，說明每個檔案的用途  
 Sandbox.html：如名稱的意思，Sandbox為"沙盒"(請參考維基百科的定義)，用來試驗HTML、CSS效果，偶而也會實驗JavaScript語法，上面有Github的連結，可以直接預覽Commit後的實驗語法/程式碼的效果。如果語法/程式碼被覆蓋掉，因為GitHub的版本控制機制，能透過本分支的commits紀錄，瀏覽語法/程式碼的變化。  
 LICENSE.txt：本專案以GNUv3方式授權釋出
+
+##關於著作權的授權方式  
+這個專案是為了自己的Blog開發方便所製作的專案，因此這個專案從一開始就採用開放原始碼的授權方式，以自由軟體授權方式釋出，你可以自由地複製由本專案所釋出的原始碼，也能透過GitHub的Clone的機制複製出來做實驗("Laboratory.html 實驗室"及"Sandbox.html沙盒"都需配合GitHub才能記錄你的實驗過程)，唯獨希望大家也能以開源的方式釋出，成果讓其他部落客也能享受得到  
+
+本專案的版權宣告頁面在每個檔案的最底下，採用GNU GPLv3開源條款方式釋出，副本可在 [GNU官方網站] (http://www.gnu.org/licenses/gpl.html) 中找到，也可以在專案資料夾的 LICENSE.txt 查看全文。
