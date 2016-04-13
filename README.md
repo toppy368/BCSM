@@ -1,8 +1,10 @@
 # Blog-Customized-Syntax-Museum (BCSM)
 本專案在是Blog Customized Syntax Museum，簡稱為BCSM，BCSM也是Github上的專案名稱，讓路徑長度簡化一些，這裡將存放 [我的部落格] (http://www.toppy368.tw) 會用到及曾經使用過的語法，同時也會實驗各種可能導入Blog樣板的語法，簡單來說就是**語法倉庫、展示櫃及實驗室 !**  
 
+**第一階段**  
 目前已完成第一階段，設計出一個簡易的網站開發工具，[實驗室] (https://toppy368.github.io/BCSM/Laboratory.html) 及 [沙盒] (https://toppy368.github.io/BCSM/Sandbox.html)，語法會先在這個實驗室實驗，確認在空的HTML網頁可以順利的執行這些語法且沒有相容限制之後，再移植到其他空間並放到第二階段即將動工的展示間相關網頁。  
 
+**第二階段**
 等第一階段實驗接近完工且成功套用在 [部落格](http://www.toppy368.tw) 上時，會設計別的頁面充當展示櫃，日後可以拿出來用，其他訪客也能瀏覽展示櫃提供的語法，並複製出來給自己的Blog使用  
 
 目前的語法有部分集中在 [這篇文章] (http://www.toppy368.tw/archives/2108) ，但因為不方便維護，所以特別寫了這個專案  
