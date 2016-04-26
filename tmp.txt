@@ -1,1 +1,15 @@
 tmp
+
+
+Wordpress Themes Name：catch-box 
+
+CSS：style.css
+
+blockquote Default：
+
+blockquote {
+	font-family: Georgia,"Bitstream Charter",serif;
+	font-style: italic;
+	font-weight: normal;
+	margin: 0 3em;
+}
