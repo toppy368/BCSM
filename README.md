@@ -25,7 +25,7 @@ https://toppy368.github.io/BCSM/Sandbox.html
 2. 雖然本檔案的語法可能隨時會被蓋掉，不過採用了GitHub版本控制紀錄檔案變更過程，可透過Commit的機制查詢實驗過程的語法及程式碼  
 
 ###第二階段DEMO  
-**導覽列 Navbar_demo.html：**
+**導覽列 Navbar_demo.html：**  
 https://toppy368.github.io/BCSM/Navbar_demo.html  
 
 ##此專案的檔案名稱  
