@@ -30,7 +30,7 @@ blockquote p {
 }
 
 
-實驗後的最佳CSS語法：
+實驗修改後的自訂CSS結果：
 blockquote {
 	background: #eeeee6 none repeat scroll -8px 0;
 	border: 1px solid #000000;
