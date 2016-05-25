@@ -1,4 +1,4 @@
-tmp
+﻿tmp
 
 
 Wordpress Themes Name：catch-box 
@@ -35,6 +35,13 @@ blockquote {
 	background: #eeeee6 none repeat scroll -8px 0;
 	border: 1px solid #000000;
 	margin:0px auto;
+	
+	padding-top: 20px;
+	padding-right: 0px;
+	padding-bottom: 5px;
+	padding-left: 0px;
 }
 
-請刪除font-style: italic;以去除斜體字
+1. 請刪除font-style: italic;以去除斜體字
+2. 請將 margin: 一律設定成 margin:0px auto; 預備置中
+3. padding留白每個佈景及瀏覽器的設定不同，此設定每次都必須微調，目前暫時以Chrome的設定方式將padding-top(上)設定成20px、padding-bottom(下)設定成5px，左右均設定成 0px
