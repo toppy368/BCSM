@@ -13,13 +13,16 @@
 **公開展示頁面的 branch:gh-pages tree：**  
 https://github.com/toppy368/BCSM/tree/gh-pages
 ###透過瀏覽器預覽本專案的方法  
-本專案的網頁端路徑為：  
-`https://toppy368.github.io/BCSM/`
-BCSM為本專案的Repositories資料夾，後面可接任何一個網頁檔即可檢視  
+本專案的網頁檢視路徑為：  
+`https://toppy368.github.io/BCSM/*`  
+BCSM為本專案的Repositories資料夾，後面的*可用任何檔案代替，你可以接專案清單上的任一檔案  
+例如**你想檢視實驗室預覽沙盒**時，你可以使用以下路徑：  
+`https://toppy368.github.io/BCSM/Laboratory.html`  
+
 
 ##本專案的開發進度解說  
 ###第一階段DEMO  
-**博物館 Laboratory.html：**  
+**實驗室 Laboratory.html：**  
 https://toppy368.github.io/BCSM/Laboratory.html   
 
 **沙盒 Sandbox.html：**  
