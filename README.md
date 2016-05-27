@@ -12,7 +12,7 @@ BCSM為本專案的Repositories資料夾，後面的`*`可用任何檔案代替�
 https://toppy368.github.io/BCSM/Laboratory.html  
 
 
-##本專案的開發進度解說  
+##本專案的開發進度解說及DEMO  
 ###開發進度說明
 **第一階段**  
 目前**已完成第一階段**，這是最優先開發的主要功能，為了要測試某些以前用過的語法，但又不想被Blog樣板原有的CSS樣式干擾，所以設計出一個簡易的網站開發工具，[實驗室] (https://toppy368.github.io/BCSM/Laboratory.html) 及 [沙盒] (https://toppy368.github.io/BCSM/Sandbox.html) 頁面，語法會先在這個實驗室實驗，確認在空的HTML網頁可以順利的執行這些語法且沒有相容限制之後，再移植到其他空間並放到第二階段即將動工的展示間相關網頁。  
