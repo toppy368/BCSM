@@ -9,10 +9,12 @@
 
 **現況：**目前已完成第一階段，實驗室與沙盒這兩組網頁設計小型開發工具，第二階段尚未動工，準備設計第二階段首頁及展示間。  
 
-##檔案及實際DEMO說明  
+##本專案的Branch位置及如何預覽本專案的方法  
 **公開展示頁面的 branch:gh-pages tree：**  
 https://github.com/toppy368/BCSM/tree/gh-pages
+###如何預覽本專案的各種網頁位置  
 
+##本專案的開發進度解說  
 ###第一階段DEMO  
 **博物館 Laboratory.html：**  
 https://toppy368.github.io/BCSM/Laboratory.html   
