@@ -13,7 +13,7 @@
 **公開展示頁面的 branch:gh-pages tree：**  
 https://github.com/toppy368/BCSM/tree/gh-pages
 ###透過瀏覽器預覽本專案的方法  
-本專案的網頁端路徑為：
+本專案的網頁端路徑為：  
 	https://toppy368.github.io/BCSM/  
 BCSM為本專案的Repositories資料夾，後面可接任何一個網頁檔即可檢視  
 
