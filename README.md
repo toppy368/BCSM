@@ -33,9 +33,10 @@ https://toppy368.github.io/BCSM/Navbar_demo.html
 2. Laboratory.html：實驗室，包含了沙盒的使用說明，並以iframe方式包覆者空白的Sandbox.html沙盒網頁  
 3. Navbar_demo.html：第二階段的導覽列範例，說明了導覽頁的運作原理，及HTML語法的ID標籤(錨點)的運作原理，此範例可在接下來開發過程及開發結尾製作導覽列時參考用  
 4. Sandbox.html：如名稱的意思，本頁面提供了空白的HTML網頁**(不引入外部CSS及Bootstrap效果)**，用來試驗HTML、CSS效果，偶而也會實驗JavaScript語法，上面有Github的連結，可以直接預覽Commit後的實驗語法/程式碼的效果。如果語法/程式碼被覆蓋掉，因為GitHub的版本控制機制，能透過本專案的commits紀錄，瀏覽語法/程式碼的變化。  
-5. Showcase.html：展示櫃
-6. LICENSE.txt：本專案以GNUv3方式授權釋出  
-7. tmp.txt：一個提供暫時儲存程式碼的txt文字檔  
+5. Showcase.html：展示櫃  
+6. index.html：首頁，目前暫不開放（只有Hello World功能）  
+7. LICENSE.txt：本專案以GNUv3方式授權釋出  
+8. tmp.txt：一個提供暫時儲存程式碼的txt文字檔  
 
 **注意：**本列表顯示是**目前**本專案的檔案，會隨者開發過程而修改，但不會顯示未來即將開發但未出現在本專案GitHub列表上的檔案  
 
