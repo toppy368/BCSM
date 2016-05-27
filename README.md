@@ -17,7 +17,7 @@ https://github.com/toppy368/BCSM/tree/gh-pages
 `https://toppy368.github.io/BCSM/*`  
 BCSM為本專案的Repositories資料夾，後面的*可用任何檔案代替，你可以接專案清單上的任一檔案  
 例如 **當你想檢視實驗室預覽沙盒** 時，你可以使用以下路徑：  
-`https://toppy368.github.io/BCSM/Laboratory.html`  
+https://toppy368.github.io/BCSM/Laboratory.html  
 
 
 ##本專案的開發進度解說  
