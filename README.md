@@ -11,6 +11,7 @@ BCSM為本專案的Repositories資料夾，後面的`*`可用任何檔案代替�
 
 例如 **當你想檢視實驗室預覽沙盒** 時，你可以使用以下路徑：  
 https://toppy368.github.io/BCSM/Laboratory.html  
+如果你想**預覽其他頁面**時，你可以上面網址中的`Laboratory.html`改成列表中的其他檔案，例如`Sandbox.html`，不過等到第三階段時，我開始在其他頁面增加導覽欄後，就可以直接用導覽欄點選到其他頁面了  
 
 
 ##本專案的開發進度解說及DEMO  
