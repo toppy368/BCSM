@@ -1,0 +1,12 @@
+/* 模擬全域 blockquote 的效果，因為blockquote是全域，可能與現有 Framework(Bootstrap) 相衝突，因此CSS命名為.blockquote */
+.blockquote {
+	background: #eeeee6 none repeat scroll -8px 0;
+	border: 1px solid #000000;
+	margin:0px auto;
+	padding-top: 25px;
+	padding-right: 0px;
+	padding-bottom: 5px;
+	padding-left: 0px;
+}
+
+/**/
