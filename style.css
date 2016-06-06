@@ -12,7 +12,7 @@
 
 /* Alerts 警報 */
 
-/* 安全，class名稱：alert-success */
+/* [安全] 綠色警報欄，class名稱：alert-success */
 .alert-success {
 	background: #dff0d8 none repeat scroll -8px 0;
 	border: 1px solid #2b542c;
@@ -22,7 +22,7 @@
 	padding-bottom: 5px;
 	padding-left: 0px;
 }
-/* 警告，class名稱：alert-warning */
+/* [警告] 黃色警報欄，class名稱：alert-warning */
 .alert-warning {
 	background: #fcf8e3 none repeat scroll -8px 0;
 	border: 1px solid #66512c;
@@ -32,7 +32,7 @@
 	padding-bottom: 5px;
 	padding-left: 0px;
 }
-/* 危險，class名稱：alert-warning */
+/* [危險] 紅色警報欄，class名稱：alert-warning */
 .alert-danger {
 	background: #f2dede none repeat scroll -8px 0;
 	border: 1px solid #843534;
