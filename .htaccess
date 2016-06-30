@@ -23,6 +23,7 @@ RewriteRule . /index.php [L]
 # SET HTTP Status Messages: 301 Moved Permanently. 
 	RewriteEngine On
 	RewriteCond %{HTTP_HOST} ^www.old-example.org$ [NC,OR]
-	RewriteCond %{HTTP_HOST} ^www.new-example.org$ [NC,OR]
+	#RewriteCond %{HTTP_HOST} ^www.new-example.org$ [NC,OR]
+	RewriteCond %{HTTP_HOST} ^www.new-example.org$ [NC]
 	RewriteRule ^(.*)$ www.new-example.org$1 [R=301,L]
 # SET HTTP Status Messages: 301 Moved Permanently.
