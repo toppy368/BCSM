@@ -9,3 +9,13 @@ RewriteRule . /index.php [L]
 </IfModule>
 
 # END WordPress
+
+
+# SET login IP  for wp-login.php
+    <Files wp-login.php>
+    Order deny,allow
+    Deny from All
+	# SET login IP Example : 127.0.0.1 or 127.0.
+	Allow from 127.0.
+    </Files>
+# END SET login IP
