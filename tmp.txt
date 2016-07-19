@@ -15,4 +15,8 @@ blockquote {
 }
 
 
-/*del*/
+Wordpress Themes Name：*
+
+CSS：style.css
+
+blockquote Default：
