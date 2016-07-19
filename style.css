@@ -9,6 +9,20 @@
 	padding-left: 0px;
 }
 
+/* 自訂blockquote效果 */
+.Title-Box {
+	background: #eeeeee none repeat scroll -8px 0;
+	border: 1px solid #000000;
+	margin:0px auto;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	font-style: normal;
+	font-weight: bold;
+	text-align: center;
+	color: #000080;
+}
 
 /* Alerts 警報 */
 
