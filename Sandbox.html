@@ -35,6 +35,20 @@
     	  padding-bottom: 5px;
     	  padding-left: 0px;
       }
+      /* 自訂 blockquote 樣式，名稱為 Title-Box */
+        .Title-Box {
+          background: #eeeeee none repeat scroll -8px 0;
+          border: 1px solid #000000;
+          margin:0px auto;
+          padding-top: 0px;
+          padding-right: 0px;
+          padding-bottom: 0px;
+          padding-left: 0px;
+          font-style: normal;
+          font-weight: bold;
+          text-align: center;
+          color: #000080;
+        }
 		</style>
 
 		<!-- 標題測試，與內文區分，標題有不同的HTML設定 -->
@@ -43,24 +57,6 @@
 
 		<!-- 內文 -->
 		<blockquote>內文</blockquote><p />
-
-		<!--測試自訂樣式，CSS區域-->
-		<style>
-    /* 自訂 blockquote 樣式，名稱為 Title-Box */
-      .Title-Box {
-        background: #eeeeee none repeat scroll -8px 0;
-        border: 1px solid #000000;
-        margin:0px auto;
-        padding-top: 0px;
-        padding-right: 0px;
-        padding-bottom: 0px;
-        padding-left: 0px;
-        font-style: normal;
-        font-weight: bold;
-        text-align: center;
-        color: #000080;
-      }
-		</style>
 
 		<!--自訂樣式(Title-Box)後的blockquot標題欄-->
 		<blockquote class="Title-Box"><h2>內文</h2></blockquote><p />
