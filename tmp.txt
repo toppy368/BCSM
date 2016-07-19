@@ -1,7 +1,7 @@
 ﻿tmp
 
 
-Wordpress Themes Name：catch-box 
+Wordpress Themes Name：catch-box
 
 CSS：style.css
 
@@ -15,32 +15,4 @@ blockquote {
 }
 
 
-自訂CSS：
-
-blockquote {
-    background: #eeeee6 none repeat scroll -8px 0;
-    border: 1px solid #000000;
-    color: #000;
-    margin: 1em 0 1em 15px;
-    padding: 8px 10px 5px;
-}
-blockquote p {
-    margin-bottom: 0.5em;
-    margin-top: 0.5em;
-}
-
-
-實驗修改後的自訂CSS結果：
-blockquote {
-	background: #eeeee6 none repeat scroll -8px 0;
-	border: 1px solid #000000;
-	margin:0px auto;
-	padding-top: 25px;
-	padding-right: 0px;
-	padding-bottom: 5px;
-	padding-left: 0px;
-}
-
-1. 請刪除font-style: italic;以去除斜體字
-2. 請將 margin: 一律設定成 margin:0px auto; 預備置中
-3. padding留白每個佈景及瀏覽器的設定不同，此設定每次都必須微調，標準做法式上下兩邊的留白均設定相同數值等比例放大縮小，但因為佈景檔效果問題，目前暫時以Chrome開發者工具預覽效果為主，設定方式將padding-top(上)設定成25px、padding-bottom(下)設定成5px，左右均設定成 0px
+/*del*/
