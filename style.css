@@ -10,6 +10,8 @@
 }
 
 /* 自訂blockquote效果 */
+
+/* Title-Box 適用於 [標題] 的blockquote效果，已設定好文字排版及文字顏色 */
 .Title-Box {
 	background: #eeeeee none repeat scroll -8px 0;
 	border: 1px solid #000000;
