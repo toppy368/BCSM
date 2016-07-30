@@ -36,9 +36,9 @@
 	border: 1px solid #2b542c;
 	margin:0px auto;
 	padding-top: 5px;
-	padding-right: 0px;
+	padding-right: 5px;
 	padding-bottom: 5px;
-	padding-left: 0px;
+	padding-left: 5px;
 }
 /* [警告] 黃色警報欄，class名稱：alert-warning */
 .alert-warning {
@@ -46,9 +46,9 @@
 	border: 1px solid #66512c;
 	margin:0px auto;
 	padding-top: 5px;
-	padding-right: 0px;
+	padding-right: 5px;
 	padding-bottom: 5px;
-	padding-left: 0px;
+	padding-left: 5px;
 }
 /* [危險] 紅色警報欄，class名稱：alert-warning */
 .alert-danger {
@@ -56,9 +56,9 @@
 	border: 1px solid #843534;
 	margin:0px auto;
 	padding-top: 5px;
-	padding-right: 0px;
+	padding-right: 5px;
 	padding-bottom: 5px;
-	padding-left: 0px;
+	padding-left: 5px;
 }
 /* [資訊] 新增任何公告的資訊面板，，class名稱：alert-info */
 .alert-info {
@@ -66,7 +66,7 @@
 	border: 1px solid #245269;
 	margin:0px auto;
 	padding-top: 5px;
-	padding-right: 0px;
+	padding-right: 5px;
 	padding-bottom: 5px;
-	padding-left: 0px;
+	padding-left: 5px;
 }
